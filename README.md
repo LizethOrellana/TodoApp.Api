@@ -11,7 +11,6 @@ Permite administrar proyectos, usuarios y tareas con soporte de tiempo real medi
 
 - ASP.NET Core Web API
 - Entity Framework Core
-- SQL Server
 - SignalR
 - Clean Architecture
 
