@@ -31,7 +31,7 @@ El sistema está basado en **Clean Architecture**, separando responsabilidades e
 
 Se definió la arquitectura utilizando el modelo C4 para representar el sistema en distintos niveles.
 
- Ver detalle: `/docs/c4.md`
+ Ver detalle: `https://github.com/LizethOrellana/TodoApp.Api/blob/main/docs/c4.md`
 
 ---
 
@@ -39,7 +39,7 @@ Se definió la arquitectura utilizando el modelo C4 para representar el sistema 
 
 El desarrollo se realizó siguiendo un enfoque basado en Scrum.
 
- Ver detalle: `/docs/scrum.md`
+ Ver detalle: `https://github.com/LizethOrellana/TodoApp.Api/blob/main/docs/scrum.md`
 
 ---
 
